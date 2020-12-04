@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+##### Samuel Lovos
 
 #### Your section leader's name
 
-TODO
+##### Andy Cherney
 
 #### Project title
 
-TODO
+##### 
 
 ***
 
