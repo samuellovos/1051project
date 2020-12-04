@@ -10,7 +10,7 @@
 
 #### Project title
 
-##### 
+##### You-Down
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+##### Continuous research on which code to use for the project, how to compile everything together. 
 
 #### What have you not done for your project yet?
 
-TODO
+##### Written a significant amount of code. 
 
 #### What problems, if any, have you encountered?
 
-TODO
+#### Connecting with team members has been tough, organization has been somewhat messy. 
